@@ -9,5 +9,7 @@ This repo will include my knowledge in Java Software development training at ASA
 ## Code 401 - Advanced Software Development
 ## Table of Contents
 - [SQL Practice](topics/SQL-Practice.md)
+- [Terminal Practice ](topics/Terminal-Practice.md)
+
 
 
