@@ -10,6 +10,8 @@ This repo will include my knowledge in Java Software development training at ASA
 ## Table of Contents
 - [SQL Practice](topics/SQL-Practice.md)
 - [Terminal Practice ](topics/Terminal-Practice.md)
+- [The Growth Mindset ](topics/The-Growth-Mindset.md)
 
+## Things I want to know more about 
 
 
