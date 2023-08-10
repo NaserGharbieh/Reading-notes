@@ -14,7 +14,7 @@ This repo will include my knowledge in Java Software development training at ASA
 | --------------- | --------------- | --------------- | --------------- |
 | Class 01  |[Class 01 -Java introduction ](topics/Readings/class01.md) | [java-fundamentals](https://github.com/NaserGharbieh/java-fundamentals)  | [Array-reverse](https://nasergharbieh.github.io/data-structures-and-algorithms/codeChallenge1/arrayreverse.html)  |
 | Class 02  | [Class 02:Packages ,Loops and Arrays ](topics/Readings/class02.md)  | [Class 02 lab ](url6)  | [Class 02 CC ](url6)  |
-| Class 03  | [Class 03 ](url6)  | [Class 03 lab ](url6)  | [Class 03 CC ](url6)  |
+| Class 03  | [Class 03:Primitives vs Objects ,Exceptions and Scanner. ](topics/Readings/class03.md)  | [Class 03 lab ](url6)  | [Class 03 CC ](url6)  |
 
 
 
