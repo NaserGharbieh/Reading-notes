@@ -1,4 +1,5 @@
-# class 04 reading: Object Oriented Programming.
+# class 06 reading: 
+## Object Oriented Programming ,Inheritance , Static Keyword and Design Patterns.
 ## Object vs Class ?
 An object is a software consist of related state (fields,variables) and behavior (methods,functions).
 A class is a blueprint or prototype from which objects are created even a simple class can cleanly model state and behavior. 
