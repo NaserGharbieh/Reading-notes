@@ -8,7 +8,9 @@ This repo will include my knowledge in Java Software development training at ASA
 - [The Growth Mindset ](topics/The-Growth-Mindset.md)
 ### Discussions
 - [DataStuctures & Big O ](topics/Discussions/DataStucture.md) 
-- [Engineering-Readings](topics/Discussions/Engineering-Readings.md) 
+- [Engineering-Readings](topics/Discussions/Engineering-Readings.md)  
+- [Stacks-Queues](topics/DSA-reading/Stacks-Queues.md)  
+
 
 | Class name  | Class reading & preparation| Class lab     | class code chalenge  |
 | --------------- | --------------- | --------------- | --------------- |
