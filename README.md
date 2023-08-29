@@ -20,7 +20,8 @@ This repo will include my knowledge in Java Software development training at ASA
 | Class 04 | [Class 04: OOP. ](topics/Readings/class04.md)  | [Class 04 lab ](url6)  | [Class 04 CC ](url6)  |
 | Class 05 | [Class 05: Big O and Linked Lists. ](topics/Readings/class05.md)  | [Class 05 lab ](url6)  | [Class 05 CC ](url6)  |
 | Class 06 | [Class 06: OOP, Inheritance, Static and Design Patterns.  ](topics/Readings/class06.md)  | [Class 06 lab ](url6)  | [Class 06 CC ](url6)  |
-| Class 08 | [Class 08: Dry,Rule of 3,YAGNI and  Minimum Viable Product ](topics/Readings/class08.md)  | [Class 06 lab ](url6)  | [Class 06 CC ](url6)  |
+| Class 08 | [Class 08: Dry,Rule of 3,YAGNI and  Minimum Viable Product ](topics/Readings/class08.md)  | [Class 08 lab ](url6)  | [Class 08 CC ](url6)  |
+| Class 09 | [Class 09: HTTP Request Lifecycle and HTTP Request Basics.](topics/Readings/class09.md)  | [Class 09 lab ](url6)  | [Class 09 CC ](url6)  |
 
 
 
