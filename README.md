@@ -22,6 +22,7 @@ This repo will include my knowledge in Java Software development training at ASA
 | Class 06 | [Class 06: OOP, Inheritance, Static and Design Patterns.  ](topics/Readings/class06.md)  | [Class 06 lab ](url6)  | [Class 06 CC ](url6)  |
 | Class 08 | [Class 08: Dry,Rule of 3,YAGNI and  Minimum Viable Product ](topics/Readings/class08.md)  | [Class 08 lab ](url6)  | [Class 08 CC ](url6)  |
 | Class 09 | [Class 09: HTTP Request Lifecycle and HTTP Request Basics.](topics/Readings/class09.md)  | [Class 09 lab ](url6)  | [Class 09 CC ](url6)  |
+| Class 11 | [Class 11: Spring MVC @Controller Classes and Thymeleaf.](topics/Readings/class11.md)  | [Class 11lab ](url6)  | [Class 11 CC ](url6)  |
 
 
 
