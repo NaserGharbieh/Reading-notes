@@ -1,4 +1,4 @@
-# Class 11 reading: 
+# Class 12 reading: 
 # Spring MVC Controllers and Data Repositories JPA. 
 # Spring Data JPA Query Methods and Annotations
 
