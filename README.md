@@ -24,6 +24,7 @@ This repo will include my knowledge in Java Software development training at ASA
 | Class 09 | [Class 09: HTTP Request Lifecycle and HTTP Request Basics.](topics/Readings/class09.md)  | [Class 09 lab ](url6)  | [Class 09 CC ](url6)  |
 | Class 11 | [Class 11: Spring MVC @Controller Classes and Thymeleaf.](topics/Readings/class11.md)  | [Class 11lab ](url6)  | [Class 11 CC ](url6)  |
 | Class 12 | [Class 12: Spring MVC Controllers and Data Repositories JPA](topics/Readings/class12.md)  | [Class 12 lab ](url6)  | [Class 12 CC ](url6)  |
+| Class 13 | [Class 13: "One to Many" Relationships and Integration Testing in Spring](topics/Readings/class13.md)  | [Class 13 lab ](url6)  | [Class 13 CC ](url6)  |
 
 
 
