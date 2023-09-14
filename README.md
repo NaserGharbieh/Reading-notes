@@ -10,6 +10,7 @@ This repo will include my knowledge in Java Software development training at ASA
 - [DataStuctures & Big O ](topics/Discussions/DataStucture.md) 
 - [Engineering-Readings](topics/Discussions/Engineering-Readings.md)  
 - [Stacks-Queues](topics/DSA-reading/Stacks-Queues.md)  
+- [Trees](topics/DSA-reading/Trees.md)  
 
 
 | Class name  | Class reading & preparation| Class lab     | class code chalenge  |
