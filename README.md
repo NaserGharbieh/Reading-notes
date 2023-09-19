@@ -28,6 +28,7 @@ This repo will include my knowledge in Java Software development training at ASA
 | Class 13 | [Class 13: "One to Many" Relationships and Integration Testing in Spring](topics/Readings/class13.md)  | [Class 13 lab ](url6)  | [Class 13 CC ](url6)  |
 | Class 14 | [Class 14: Hashing, bcrypt and jBCrypt ](topics/Readings/class14.md)  | [Class 14 lab ](url6)  | [Class 14 CC ](url6)  |
 | Class 16 | [Class 16: Spring security.](topics/Readings/class16.md)  | [Class 16 lab ](url6)  | [Class 16 CC ](url6)  |
+| Class 17 | [Class 17: OAuth](topics/Readings/class17.md)  | [Class 17 lab ](url6)  | [Class 17 CC ](url6)  |
 
 
 
