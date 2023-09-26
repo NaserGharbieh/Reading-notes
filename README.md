@@ -23,13 +23,14 @@ This repo will include my knowledge in Java Software development training at ASA
 | Class 06 | [Class 06: OOP, Inheritance, Static and Design Patterns.  ](topics/Readings/class06.md)  | [Class 06 lab ](url6)  | [Class 06 CC ](url6)  |
 | Class 08 | [Class 08: Dry,Rule of 3,YAGNI and  Minimum Viable Product ](topics/Readings/class08.md)  | [Class 08 lab ](url6)  | [Class 08 CC ](url6)  |
 | Class 09 | [Class 09: HTTP Request Lifecycle and HTTP Request Basics.](topics/Readings/class09.md)  | [Class 09 lab ](url6)  | [Class 09 CC ](url6)  |
-| Class 11 | [Class 11: Spring MVC @Controller Classes and Thymeleaf.](topics/Readings/class11.md)  | [Class 11lab ](url6)  | [Class 11 CC ](url6)  |
+| Class 11 | [Class 11: Spring MVC @Controller Classes and Thymeleaf.](topics/Readings/class11.md)  | [Class 11 lab ](url6)  | [Class 11 CC ](url6)  |
 | Class 12 | [Class 12: Spring MVC Controllers and Data Repositories JPA](topics/Readings/class12.md)  | [Class 12 lab ](url6)  | [Class 12 CC ](url6)  |
 | Class 13 | [Class 13: "One to Many" Relationships and Integration Testing in Spring](topics/Readings/class13.md)  | [Class 13 lab ](url6)  | [Class 13 CC ](url6)  |
 | Class 14 | [Class 14: Hashing, bcrypt and jBCrypt ](topics/Readings/class14.md)  | [Class 14 lab ](url6)  | [Class 14 CC ](url6)  |
 | Class 16 | [Class 16: Spring security.](topics/Readings/class16.md)  | [Class 16 lab ](url6)  | [Class 16 CC ](url6)  |
 | Class 17 | [Class 17: OAuth](topics/Readings/class17.md)  | [Class 17 lab ](url6)  | [Class 17 CC ](url6)  |
-| Class 18 | [Class 18: "Many to Many" Relationships and sanitizing incoming user data](topics/Readings/class18.md)  | [Class 18 lab ](url6)  | [Class 18 CC ](url6)  |
+| Class 18 | [Class 18: "Many to Many" Relationships and sanitizing incoming user data](topics/Readings/class18.md)  | [Class 18 lab ](url6)  | [Class 18 CC ](url6)  | 
+| Class 19 | [Class 18: Purely Functional Programming ](topics/Readings/class19.md)  | [Class 19 lab ](url6)  | [Class 19 CC ](url6)  |
 
 
 
