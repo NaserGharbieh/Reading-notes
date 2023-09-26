@@ -9,7 +9,9 @@ In purely functional programming, data structures are typically treated as immut
 
 ## How It Differs From Imperative Programming
 
-Purely functional programming differs significantly from imperative programming, which is likely the style of programming you've encountered in most of your courses. Imperative programs often involve changing the state of variables, using loops, and performing actions with side effects. In contrast, purely functional programs aim to minimize or eliminate side effects and mutable state. This change in mindset and approach may require a different way of thinking and structuring your programs.
+Purely functional programming differs significantly from imperative programming, which is likely the style of programming I have encountered in most of my courses. Imperative programs often involve changing the state of variables, using loops, and performing actions with side effects.
+In contrast, purely functional programs aim to minimize or eliminate side effects and mutable state.
+This change in mindset and approach may require a different way of thinking and structuring my programs.
 
 Here are some key differences you might encounter when transitioning to purely functional programming:
 
