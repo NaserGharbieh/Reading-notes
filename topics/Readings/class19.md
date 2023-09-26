@@ -1,4 +1,4 @@
-# Class 18 reading:
+# Class 19 reading:
 # Purely Functional Programming
 
 In purely functional programming, data structures are typically treated as immutable, meaning once they are created, they cannot be changed. Instead of modifying an existing data structure, you create new data structures that incorporate the desired changes while leaving the original data structures unchanged. This immutability is a fundamental principle of purely functional programming and is key to ensuring referential transparency and avoiding side effects.
