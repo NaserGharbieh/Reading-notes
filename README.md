@@ -32,6 +32,7 @@ This repo will include my knowledge in Java Software development training at ASA
 | Class 18 | [Class 18: "Many to Many" Relationships and sanitizing incoming user data](topics/Readings/class18.md)  | [Class 18 lab ](url6)  | [Class 18 CC ](url6)  | 
 | Class 19 | [Class 19: Purely Functional Programming ](topics/Readings/class19.md)  | [Class 19 lab ](url6)  | [Class 19 CC ](url6)  |
 | Class 26 | [Class 26: Android Intents and Activities](topics/Readings/class26.md)  | [Class 26 lab ](url6)  | [Class 26 CC ](url6)  |
+| Class 27 | [Class 27: Android Shared Preferences , Espresso Test, Tasks ,back stack](topics/Readings/class27.md)  | [Class 27 lab ](url6)  | [Class 27 CC ](url6)  |
 
 
 
