@@ -1,4 +1,4 @@
-# Class 27 reading: RecyclerView
+# Class 28 reading: RecyclerView
 
 ## What Makes a RecyclerView Dynamic
 
