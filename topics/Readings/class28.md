@@ -8,7 +8,7 @@
 
 - This recycling mechanism significantly improves performance, app responsiveness, and reduces power consumption when compared to less dynamic approaches.
 
-## I like to share thr Amman bus app that uses RecyclerView to display Routes
+## I like to share the Amman bus app that uses RecyclerView to display Routes
 
 ![Amman-bus-Homepage](../../assets/pics/Amman-bus-Homepage.jpg)
 
