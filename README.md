@@ -37,6 +37,7 @@ This repo will include my knowledge in Java Software development training at ASA
 | Class 27 | [Class 27: Android Shared Preferences , Espresso Test, Tasks ,back stack](topics/Readings/class27.md)  | [Class 27 lab ](url6)  | [Class 27 CC ](url6)  |
 | Class 28 | [Class 28: RecyclerView ](topics/Readings/class28.md)  | [Class 28 lab ](url6)  | [Class 28 CC ](url6)  | 
 | Class 29 | [Class 29: Rooms Db](topics/Readings/class29.md)  | [Class 29 lab ](url6)  | [Class 29 CC ](url6)  | 
+| Class 31| [Class 31:AWS Amplify ](topics/Readings/class31.md)  | [Class 31 lab ](url6)  | [Class 31 CC ](url6)  | 
 
 
 
