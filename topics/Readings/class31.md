@@ -1,4 +1,4 @@
-# Class 29 reading:AWS Amplify
+# Class 31 reading:AWS Amplify
 
 # Alternatives to AWS Amplify
 
