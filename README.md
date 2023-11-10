@@ -39,7 +39,7 @@ This repo will include my knowledge in Java Software development training at ASA
 | Class 29 | [Class 29: Rooms Db](topics/Readings/class29.md)  | [Class 29 lab ](url6)  | [Class 29 CC ](url6)  | 
 | Class 31| [Class 31:AWS Amplify ](topics/Readings/class31.md)  | [Class 31 lab ](url6)  | [Class 31 CC ](url6)  |
 | Class 32| [Class 32:AWS Amplify ,Intro to Serverless and GraphQL ](topics/Readings/class32.md)  | [Class 32 lab ](url6)  | [Class 32 CC ](url6)  | 
-
+| Class 33| [Class 33:Asynchronous Actions and Benefits of Asynchronous Methods ](topics/Readings/class33.md)  | [Class 33 lab ](url6)  | [Class 33 CC ](url6)  | 
 
 
 
