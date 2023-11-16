@@ -13,6 +13,7 @@ This repo will include my knowledge in Java Software development training at ASA
 - [Trees](topics/DSA-reading/Trees.md)  
 - [Stacks-Queues](topics/DSA-reading/Stacks-Queues.md)  
 - [Hashtables](topics/DSA-reading/Hashtables.md)  
+- [Graphs](topics/DSA-reading/Graphs.md) 
 
 
 | Class name  | Class reading & preparation| Class lab     | class code chalenge  |
