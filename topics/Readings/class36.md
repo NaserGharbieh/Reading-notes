@@ -1,4 +1,4 @@
-# Class 35 Reading :
+# Class 36 Reading :
 # Amplify Auth Setup
 
 ## Where to Check Auth Session
