@@ -43,7 +43,8 @@ This repo will include my knowledge in Java Software development training at ASA
 | Class 33| [Class 33:Asynchronous Actions and Benefits of Asynchronous Methods ](topics/Readings/class33.md)  | [Class 33 lab ](url6)  | [Class 33 CC ](url6)  | 
 | Class 34| [Class 34:Releasing to the Google Play Store ](topics/Readings/class34.md)  | [Class 34 lab ](url6)  | [Class 34 CC ](url6)  | 
 | Class 36| [Class 36: Amplify Auth Setup ](topics/Readings/class36.md)  | [Class 36 lab ](url6)  | [Class 36 CC ](url6)  |
-| Class 37| [Class 37: Amazon S3 ](topics/Readings/class37.md)  | [Class 37 lab ](url6)  | [Class 37 CC ](url6)  |  
+| Class 37| [Class 37: Amazon S3 ](topics/Readings/class37.md)  | [Class 37 lab ](url6)  | [Class 37 CC ](url6)  |
+| Class 38| [Class 38: Intent Filters ](topics/Readings/class37.md)  | [Class 38 lab ](url6)  | [Class 38 CC ](url6)  |   
 
 
 
