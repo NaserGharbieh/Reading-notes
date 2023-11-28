@@ -45,6 +45,7 @@ This repo will include my knowledge in Java Software development training at ASA
 | Class 36| [Class 36: Amplify Auth Setup ](topics/Readings/class36.md)  | [Class 36 lab ](url6)  | [Class 36 CC ](url6)  |
 | Class 37| [Class 37: Amazon S3 ](topics/Readings/class37.md)  | [Class 37 lab ](url6)  | [Class 37 CC ](url6)  |
 | Class 38| [Class 38: Intent Filters ](topics/Readings/class38.md)  | [Class 38 lab ](url6)  | [Class 38 CC ](url6)  | 
+| Class 38| [Class 38:Location  ](topics/Readings/class39.md)  | [Class 39 lab ](url6)  | [Class 30 CC ](url6)  |
   
 
 
